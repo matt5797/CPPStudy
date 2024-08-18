@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Development\\VSCodeProjects\\CPPStudy\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{233CB7B2-F3BB-4587-885F-A4F903B92B72}|CPPStudy.vcxproj|D:\\Development\\VSCodeProjects\\CPPStudy\\\uAE30\uCD9C\\NHN02\\NHN02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{233CB7B2-F3BB-4587-885F-A4F903B92B72}|CPPStudy.vcxproj|solutionrelative:\uAE30\uCD9C\\NHN02\\NHN02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NHN02.cpp",
+              "DocumentMoniker": "D:\\Development\\VSCodeProjects\\CPPStudy\\\uAE30\uCD9C\\NHN02\\NHN02.cpp",
+              "RelativeDocumentMoniker": "\uAE30\uCD9C\\NHN02\\NHN02.cpp",
+              "ToolTip": "D:\\Development\\VSCodeProjects\\CPPStudy\\\uAE30\uCD9C\\NHN02\\NHN02.cpp",
+              "RelativeToolTip": "\uAE30\uCD9C\\NHN02\\NHN02.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAwEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-18T17:36:41.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
