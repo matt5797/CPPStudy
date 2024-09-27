@@ -9,6 +9,9 @@
         "initializer_list": "cpp",
         "ostream": "cpp",
         "iostream": "cpp",
-        "tuple": "cpp"
+        "tuple": "cpp",
+        "cmath": "cpp",
+        "algorithm": "cpp",
+        "*.tcc": "cpp"
     }
 }
