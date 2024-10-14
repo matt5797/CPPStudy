@@ -12,6 +12,9 @@
         "tuple": "cpp",
         "cmath": "cpp",
         "algorithm": "cpp",
-        "*.tcc": "cpp"
+        "*.tcc": "cpp",
+        "utility": "cpp",
+        "climits": "cpp",
+        "limits": "cpp"
     }
 }
